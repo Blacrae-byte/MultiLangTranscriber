@@ -1,0 +1,7 @@
+{
+  "name": "Polyglot Pulse",
+  "description": "A world-class engine for regional dialect identification, phonetic transcription, and reverse-dictionary lookups across major global variants.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
